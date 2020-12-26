@@ -1,0 +1,12 @@
+node_modules/*
+.python-version
+log/*.json
+config/*
+.idea/*
+db/config.json
+pbrain.db
+package-lock.json
+log/*
+data/*
+npm-debug.log
+**/config.json

@@ -1,0 +1,3 @@
+1. Change Personality to CLOUD
+2. Remake HardCoded Respones
+3. Update SoftCoded Responses
