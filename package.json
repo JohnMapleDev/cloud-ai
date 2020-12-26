@@ -1,6 +1,6 @@
 {
-    "name": "P-Brain.ai",
-    "version": "0.6.0",
+    "name": "Cloud.ai,
+    "version": "0.0.1",
     "description": "NodeJS-powered AI assistant",
     "main": "server.js",
     "scripts": {
@@ -8,14 +8,14 @@
         "lint": "./node_modules/.bin/eslint --ext .js ./ && ./node_modules/.bin/prettier --check '**/*.{js,json,md,html,css,yaml,yml}'",
         "fix": "./node_modules/.bin/eslint --ext .js --fix ./ && ./node_modules/.bin/prettier --check --write '**/*.{js,json,md,html,css,yaml,yml}'"
     },
-    "author": "Patrick Quinn",
+    "author": "Oscar Wiklund",
     "license": "GPLv3",
     "repository": {
         "type": "git",
-        "url": "https://github.com/patrickjquinn/P-Brain.ai"
+        "url": "https://github.com/WiklundOscar/cloud-ai"
     },
     "bugs": {
-        "url": "https://github.com/patrickjquinn/P-Brain.ai/issues",
+        "url": "https://github.com/WiklundOscar/cloud-ai/issues",
         "email": "noreply@github.com"
     },
     "dependencies": {
